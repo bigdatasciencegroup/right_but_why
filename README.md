@@ -11,7 +11,7 @@ A. Interpretable Models, by Hanan Shteingart, PhD
   4. [Linear pitfalls notebook](notebooks/linear/linear.ipynb) - many believe a linear model is easily interpertable. However, linear coefficient are far from intuitive. Specifically, coefficient are sensitive to scaling. However, even if you normalize your features, due to mulitcolinearity, features which are positively correlated with the class may end up having a negative coefficient and vice versa. I show how can the importance of each feature can be estimated using bootstrap shuffeling. 
 
 B. Black Box approach using LIME, by Yigal Wienberger
-  1. [Peering into the blackbox](/decks/Peering%20into%20the%20black%20box.pptx)
+  1. Deck: [Peering into the blackbox](/decks/Peering%20into%20the%20black%20box.pptx)
   2. notebooks: 
     * [MI as the product](/notebooks/Peering into the black box/MI as the product.ipynb)
     * [MI for Ethics](/notebooks/Peering into the black box/MI for Ethics.ipynb)
