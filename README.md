@@ -1,7 +1,7 @@
 # Right, but Why?!
-a workshop on machine learning model interpretation
-by Hanan Shteingart, PhD
-and Yigal Wienberger
+This is a 3 hours workshop on machine learning model interpretation conducted on May 27, 2018 in the Data Science Summit Workshop day in the IDC, Herzliya.
+## Authors
+Hanan Shteingart, PhD and Yigal Wienberger
 
 # Table of Content
 A. Interpretable Models, by Hanan Shteingart, PhD
