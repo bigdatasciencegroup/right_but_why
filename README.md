@@ -13,6 +13,6 @@ A. Interpretable Models, by Hanan Shteingart, PhD
 B. Black Box approach using LIME, by Yigal Wienberger
   1. Deck: [Peering into the blackbox](/decks/Peering%20into%20the%20black%20box.pptx)
   2. notebooks: 
-    * [MI as the product](notebooks/Peering%20into%20the%20black%20box/MI%20as%20the%20product.ipynb)
-    * [MI for Ethics](notebooks/Peering%20into%20the%20black%20box/MI%20for%20Ethics.ipynb)
-    * [MI for model improvement]("notebooks/Peering%20into%20the%20black%20box/MI%20for%20model%20improvement.ipynb")
+      1. [MI as the product](notebooks/Peering%20into%20the%20black%20box/MI%20as%20the%20product.ipynb)
+      2. [MI for Ethics](notebooks/Peering%20into%20the%20black%20box/MI%20for%20Ethics.ipynb)
+      3. [MI for model improvement]("notebooks/Peering%20into%20the%20black%20box/MI%20for%20model%20improvement.ipynb")
