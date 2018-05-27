@@ -1,5 +1,5 @@
 # Right, but Why?!
-![](https://image.ibb.co/nntWFy/Screen_Shot_2018_05_27_at_20_00_32.png)
+![THINKING](https://image.ibb.co/nntWFy/Screen_Shot_2018_05_27_at_20_00_32.png)
 This is a 3 hours workshop on machine learning model interpretation conducted on May 27, 2018 in the Data Science Summit Workshop day in the IDC, Herzliya.
 ## Authors
 Hanan Shteingart, PhD and Yigal Wienberger
