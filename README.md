@@ -1,6 +1,7 @@
 # Right, but Why?!
 ![THINKING](https://image.ibb.co/nntWFy/Screen_Shot_2018_05_27_at_20_00_32.png)
-This is a 3 hours workshop on machine learning model interpretation conducted on May 27, 2018 in the Data Science Summit Workshop day in the IDC, Herzliya.
+
+This was a 3 hours workshop on machine learning model interpretation conducted on May 27, 2018 in the [Data Science Summit 2018 Workshop day in the IDC, Herzliya](https://events.bizzabo.com/DataScienceSummit2018/agenda/speakers/264987).
 ## Authors
 * First Session: Hanan Shteingart, PhD
 * Second Session: Yigal Wienberger
